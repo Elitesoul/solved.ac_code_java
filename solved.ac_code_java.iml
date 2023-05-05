@@ -30,6 +30,14 @@
       <sourceFolder url="file://$MODULE_DIR$/Sprout/Iteration" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sprout/Output" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sprout/String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/GOLD_Ⅰ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/GOLD_Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/GOLD_Ⅲ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/GOLD_Ⅳ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/GOLD_Ⅴ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/SILVER_Ⅰ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/SILVER_Ⅱ" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Class_4/SILVER_Ⅲ" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
