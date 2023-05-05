@@ -166,14 +166,14 @@
 - BOJ 6064 카잉 달력
 - BOJ 11286 절댓값 힙
 - BOJ 11403 경로 찾기
-### GOLD Ⅴ
+### [GOLD Ⅴ](https://github.com/Elitesoul/solved.ac_code_java/tree/main/Class_3/GOLD_%E2%85%A4)
 - BOJ 1107 리모컨
 - BOJ 5430 AC
 - BOJ 7569 토마토
 - BOJ 7576 토마토
 - BOJ 10026 적록색약
 - BOJ 16928 뱀과 사다리 게임
-### GOLD Ⅳ
+### [GOLD Ⅳ](https://github.com/Elitesoul/solved.ac_code_java/tree/main/Class_3/GOLD_%E2%85%A3)
 - BOJ 7662 이중 우선순위 큐
 - BOJ 9019 DSLR
 - BOJ 14500 테트로미노
