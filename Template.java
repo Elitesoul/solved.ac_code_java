@@ -6,7 +6,7 @@ public class Template {
     
     static int n;
     static int answer;
-    static int[][] mat;
+    static int[][] map;
     
     static Queue<Integer> queue;
     static String[] array;
