@@ -4,6 +4,17 @@ import java.util.*;
 
 public class Template {
     
+    static class Node {
+        
+        int end;
+        int weight;
+        
+        public Node(int end, int wegiht) {
+            this.end = end;
+            this.weight = wegiht;
+        }
+    }
+    
     static int n;
     static int answer;
     static int[][] map;
